@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pref_distance_options">
+        <item>@string/pref_distance_100_label</item>
+        <item>@string/pref_distance_200_label</item>
+        <item>@string/pref_distance_500_label</item>
+        <item>@string/pref_distance_any_label</item>
+    </array>
+
+    <array name="pref_distance_values">
+        <item>@string/pref_distance_100_value</item>
+        <item>@string/pref_distance_200_value</item>
+        <item>@string/pref_distance_500_value</item>
+        <item>@string/pref_distance_any_value</item>
+    </array>
+
+    <array name="pref_link_speed_options">
+        <item>@string/pref_link_speed_128_label</item>
+        <item>@string/pref_link_speed_512_label</item>
+        <item>@string/pref_link_speed_1024_label</item>
+        <item>@string/pref_link_speed_any_label</item>
+    </array>
+
+    <array name="pref_link_speed_values">
+        <item>@string/pref_link_speed_128_value</item>
+        <item>@string/pref_link_speed_512_value</item>
+        <item>@string/pref_link_speed_1024_value</item>
+        <item>@string/pref_link_speed_any_value</item>
+    </array>
+
+    <array name="pref_user_number_options">
+        <item>@string/pref_user_number_5_label</item>
+        <item>@string/pref_user_number_10_label</item>
+        <item>@string/pref_user_number_20_label</item>
+        <item>@string/pref_user_number_any_label</item>
+    </array>
+
+    <array name="pref_user_number_values">
+        <item>@string/pref_user_number_5_value</item>
+        <item>@string/pref_user_number_10_value</item>
+        <item>@string/pref_user_number_20_value</item>
+        <item>@string/pref_user_number_any_value</item>
+    </array>
+
+
+</resources>

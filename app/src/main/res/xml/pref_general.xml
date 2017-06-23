@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:defaultValue="def"
+        android:entries="@array/pref_distance_options"
+        android:entryValues="@array/pref_distance_values"
+        android:key="@string/pref_distance_key"
+        android:title="@string/pref_distance_label" />
+
+    <ListPreference
+        android:defaultValue="def"
+        android:entries="@array/pref_link_speed_options"
+        android:entryValues="@array/pref_link_speed_values"
+        android:key="@string/pref_link_speed_key"
+        android:title="@string/pref_link_speed_label" />
+
+    <ListPreference
+        android:defaultValue="def"
+        android:entries="@array/pref_user_number_options"
+        android:entryValues="@array/pref_user_number_values"
+        android:key="@string/pref_popularity_key"
+        android:title="@string/pref_popularity_label" />
+
+    <CheckBoxPreference
+        android:defaultValue="@bool/pref_password_required_default"
+        android:key="@string/pref_password_required_key"
+        android:summaryOff="@string/pref_password_required_false"
+        android:summaryOn="@string/pref_password_required_true"
+        android:title="@string/pref_password_required_label" />
+
+
+
+</PreferenceScreen>

@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">WiFind</string>
+
+    <string name="title_main_activity">Spot Map</string>
+    <string name="title_settings_activity">Map settings</string>
+    <string name="title_add_spot_activity">New spot</string>
+
+    <string name="action_map_settings">Filter spots</string>
+    <string name="action_add_spot">Done</string>
+
+    <string name="et_password_hint">Enter password if require</string>
+    <string name="tv_link_speed">Link speed: </string>
+    <string name="tv_current_wifi_name">Current wifi name: </string>
+    <string name="tv_password">Password:</string>
+    <string name="tv_number_of_users">Number of users:</string>
+    <string name="et_number_of_users_hint">Approximate number</string>
+
+
+    <!--preferences strings-->
+    <string name="pref_distance_label">Distance to spot</string>
+    <string name="pref_distance_key">distance</string>
+
+    <string name="pref_link_speed_label">Preffered link speed</string>
+    <string name="pref_link_speed_key">link_speed</string>
+
+    <string name="pref_popularity_label">Number of users</string>
+    <string name="pref_popularity_key">user_amount</string>
+
+    <string name="pref_password_required_label">Show password required spots</string>
+    <string name="pref_password_required_key">password_required</string>
+    <string name="pref_password_required_true">Show</string>
+    <string name="pref_password_required_false">Hide</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="pref_user_number_5_label">Up to 5 users</string>
+    <string name="pref_user_number_10_label">Up to 10 users</string>
+    <string name="pref_user_number_20_label">Up to 20 users</string>
+    <string name="pref_user_number_any_label">Any number of users</string>
+
+    <string name="pref_user_number_any">any</string>
+    <string name="pref_link_speed_any">any</string>
+
+    <string name="pref_distance_100_label">Up to 100 meters</string>
+    <string name="pref_distance_500_label">Up to 500 meters</string>
+    <string name="pref_distance_200_label">Up to 200 meters</string>
+    <string name="pref_distance_any_label">Any distance</string>
+
+    <string name="pref_distance_any">any</string>
+
+    <string name="pref_link_speed_128_label">Up to 128 mb/s</string>
+    <string name="pref_link_speed_512_label">Up to 512 mb/s</string>
+    <string name="pref_link_speed_1024_label">Up to 1 gb/s</string>
+
+    <string name="pref_link_speed_any_label">Any speed</string>
+    <string name="pref_distance_100_value">100</string>
+    <string name="pref_distance_200_value">200</string>
+    <string name="pref_distance_500_value">500</string>
+    <string name="pref_distance_any_value">any</string>
+    <string name="pref_link_speed_128_value">128</string>
+    <string name="pref_link_speed_512_value">512</string>
+    <string name="pref_link_speed_1024_value">1024</string>
+    <string name="pref_link_speed_any_value">any</string>
+    <string name="pref_user_number_5_value">5</string>
+    <string name="pref_user_number_10_value">10</string>
+    <string name="pref_user_number_20_value">20</string>
+    <string name="pref_user_number_any_value">any</string>
+    <string name="pref_distance_default">any</string>
+    <string name="pref_link_speed_default">any</string>
+    <string name="pref_user_number_default">any</string>
+    <string name="no_spots_error">There is no spots</string>
+    <string name="permission_error">To enable location you must grant permission to access location</string>
+    <string name="error_no_users">\'Number of users\' field cannot be empty</string>
+    <string name="error_simple">Something goes wrong</string>
+    <string name="error_wifi_exist">This wifi name already exists</string>
+    <string name="error_invalid_number_of_users"><![CDATA[\'Number of users\' field cannot be <=0]]></string>
+
+
+</resources>

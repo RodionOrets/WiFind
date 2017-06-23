@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="pref_distance_default">1000</integer>
+    <integer name="pref_link_speed_default">1024</integer>
+    <integer name="pref_number_of_users_default">10</integer>
+</resources>
